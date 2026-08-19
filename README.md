@@ -8,7 +8,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-ODIR--5K-green)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
-**B.Tech Final Year Project**  
+**Project**  
 *AI-Assisted Retinal Image Screening Using Deep Learning and Transfer Learning*
 
 </div>
@@ -449,4 +449,5 @@ based on this tool's predictions.
 
 ---
 
-*B.Tech Final Year Project — AI-Based Retinal Imaging and Ophthalmic Screening System*
+Project — AI-Based Retinal Imaging and Ophthalmic Screening System*
+Team - 15 
